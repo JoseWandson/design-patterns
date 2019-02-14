@@ -1,0 +1,32 @@
+<contatos>
+  <contato>
+    <codigo>1</codigo>
+    <nome>Wandson</nome>
+    <telefone>83 9 9999-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Teste</nome>
+    <telefone>83 9 8888-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>1</codigo>
+    <nome>Wandson</nome>
+    <telefone>83 9 9999-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Teste</nome>
+    <telefone>83 9 8888-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Teste</nome>
+    <telefone>83 9 8888-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Teste</nome>
+    <telefone>83 9 8888-9999</telefone>
+  </contato>
+</contatos>
